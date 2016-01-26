@@ -1,6 +1,6 @@
 '''
 MyLinkOpener.py
-Opens all important links (to me) in txt files in separate browser tabs...because you never know when your browser
+Opens all of my important links in txt files in separate browser tabs...because you never know when your browser
 will suddenly exit on you while you have hundreds of tabs open
 Created on Jan 5, 2016
 
